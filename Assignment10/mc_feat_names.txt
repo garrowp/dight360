@@ -1,0 +1,1 @@
+ttr	1st-pro	2nd-pro	3rd-pro	punct	years	end-punct	cont	total-pro	nouns	verbs	adj	adv	verb-noun	adj-noun	adv_verb	wh-	genre
